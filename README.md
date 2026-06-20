@@ -13,3 +13,5 @@ How it works: Once you have the map pulled up you can begin placing rooms on the
 Once the dungeon has been laid out and the map is visible to the players they will be able to see what is in the immediate next connected rooms and then also a dimmed out room if it is just beyond. So players will have a good idea of the next one space, but would have a fog of war view for the room that is 2 out. In order to move, the party can agree on which move they want to do by having the players place a move request marker onto the map (?). The marker can be placed on any fully visible room. Once the group decides thats where they are going, the GM can move them there and it can continue like that until the floor is cleared.
 
 An important thing to note is that the Treasure ($) and the Boss (B) markers will be visible to your players once they are discovered. But the Trap (!) and Monster (M) will remain hidden from the players so only the GM will know where they are and when to resolve those encounters. 
+
+<img src="https://i.imgur.com/JEaS8nb.png" width="33%"> <img src="https://i.imgur.com/cF1h9p5.png" width="33%"> <img src="https://i.imgur.com/MGhvMiN.png" width="33%">
