@@ -15,6 +15,6 @@ Once the dungeon has been laid out and the map is visible to the players they wi
 An important thing to note is that the Treasure ($) and the Boss (B) markers will be visible to your players once they are discovered. But the Trap (!) and Monster (M) will remain hidden from the players so only the GM will know where they are and when to resolve those encounters. 
 
 <img src="https://i.imgur.com/Xm08HUZ.png" width="33%"> The map planned out. </br>
-<img src="https://i.imgur.com/XnR6rAU.png" width="45%"> The party encounters a monster fight. <br>
+<img src="https://i.imgur.com/XnR6rAU.png" width="45%"> <t valign="center">The party encounters a monster fight. </t><br>
 <img src="https://i.imgur.com/zTT7EJ0.png" width="45%"> The encounter is rolled out and the monsters appear on screen.<br>
 <img src="https://i.imgur.com/vu0V9Kl.png" width="33%"> The exploration continues. <br>
