@@ -165,17 +165,16 @@ The following settings can be configured in Foundry’s module settings:
 
 ## Encounter Table Result Formats
 
-Encounter tables support several result formats:
+Encounter tables should list **one Actor per table result**.
+
+Each result should point to a single monster or enemy. The module rolls on the selected encounter table a number of times equal to the value entered by the GM in the **Generate Encounter** prompt.
+
+Supported result formats:
 
 ```text
 Goblin
-2x Goblin
-1d4 Goblin
 @UUID[Compendium.world.shared-monsters.Actor.xxxxx]
-2x @UUID[Compendium.world.shared-monsters.Actor.xxxxx]
 ```
-
-The module can spawn multiple enemies from a single table result using either fixed counts or dice formulas.
 
 ## Spawn Location
 
